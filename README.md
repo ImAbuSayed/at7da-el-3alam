@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> Subproject commit fde4e3e3421d5940cff6458609494bc4dbe6c04a
+> يا نور روحي في الليالي الحالمة
+> تعالي قربي قلوبنا هائمة
+> شوقي يعانق كل نبض في دمي
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
