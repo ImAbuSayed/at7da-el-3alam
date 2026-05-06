@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 21, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/at7da-el-3alam/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use At7da El-3alam](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
