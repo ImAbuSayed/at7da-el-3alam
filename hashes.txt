@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - At7da El-3alam
+
+This log tracks the cryptographic history and versioning for the song **At7da El-3alam** (at7da-el-3alam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:03:00.576384 | `v1` | `2a16eaf2addf6c82bdea486a518f3288ab24305975d2db23fab214ab1be65a4a` | `041f4478d7e0a47bf81d95c7779d204ac53272f2efe1d2371ea10cc50183eee0` | `2026-05-09_at7da-el-3alam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
